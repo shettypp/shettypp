@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prajna shetty
+- 👋 Hey, I’m Prajna shetty
 - 👀 I’m passionate about technology and coding
 - 🌱 I’m currently learning Fintech as minor, DBMS , Algorithms , operating system and java
 - 📫 Reach me at n/prajna-shetty-6503bb293
