@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Prajna shetty
-- 👀 I’m passionate about technology.
+- 👀 I’m passionate about building websites and AIML.
 - 🌱 I’m currently doing specialation in full stack development and cloud computing.
 - 📫 Reach me at @prajnashetty440@gmail.com 
 - 😄 Pronouns: she/her
