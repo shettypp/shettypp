@@ -1,7 +1,7 @@
 - 👋 Hey, I’m Prajna shetty
-- 👀 I’m passionate about technology and coding
-- 🌱 I’m currently learning Fintech as minor, DBMS , Algorithms , operating system and java
-- 📫 Reach me at n/prajna-shetty-6503bb293
+- 👀 I’m passionate about technology.
+- 🌱 I’m currently doing specialation in full stack development and cloud computing.
+- 📫 Reach me at @prajnashetty440@gmail.com 
 - 😄 Pronouns: she/her
 
 
