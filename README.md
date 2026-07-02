@@ -146,28 +146,6 @@ My goal is to grow into a **Software Engineer** who designs scalable cloud syste
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=shettypp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettypp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shettypp&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shettypp&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
-<br/>
-
----
-
 ## 📜 Certifications
 
 - **Affective Computing** — NPTEL, Elite + Top 5% (94%)
