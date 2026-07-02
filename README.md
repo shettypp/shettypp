@@ -65,6 +65,8 @@ Built responsive admin-portal and event-management interfaces in HTML, CSS, and 
 
 **[Zero-Trust Architecture for Secure Cloud Resource Access ](https://github.com/shettypp/Zero-Trust-Cloud-Security.git)**
 
+**[Cloud-Based Secure VPN Access System with MFA ](https://github.com/shettypp/Secure-VPN-Access.git)**
+
 **[MediZap — AI Healthcare Platform ](https://github.com/shettypp/medizap.git)**
 
 **[LegalTech — AI Contract Verification ](https://github.com/shettypp/digital-contract-platform.git)**
