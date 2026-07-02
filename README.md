@@ -21,24 +21,6 @@ Right now that means building things like a Zero Trust access model on AWS, an L
 
 <br/>
 
-## 💼 Experience
-
-<details>
-<summary>Click to expand</summary>
-<br/>
-
-**AI Intern** — Dhee Center for AI & Data Science, RV University · *Jun–Jul 2025*
-- Built an LSTM-based time-series forecasting model trained on 270 years of historical solar sunspot data.
-- Handled preprocessing, feature engineering, and model optimization in Python and Pandas.
-
-**Frontend Developer Intern** — Janmamithra Trust, Bengaluru · *Dec 2024–Jan 2025*
-- Built responsive admin-portal and event-management interfaces in HTML, CSS, and JavaScript.
-- Developed reusable frontend components to reduce duplicated UI code across modules.
-
-</details>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -63,6 +45,24 @@ Right now that means building things like a Zero Trust access model on AWS, an L
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 
 </div>
+
+<br/>
+
+## 💼 Experience
+
+<details>
+<summary>Click to expand</summary>
+<br/>
+
+**AI Intern** — Dhee Center for AI & Data Science, RV University · *Jun–Jul 2025*
+- Built an LSTM-based time-series forecasting model trained on 270 years of historical solar sunspot data.
+- Handled preprocessing, feature engineering, and model optimization in Python and Pandas.
+
+**Frontend Developer Intern** — Janmamithra Trust, Bengaluru · *Dec 2024–Jan 2025*
+- Built responsive admin-portal and event-management interfaces in HTML, CSS, and JavaScript.
+- Developed reusable frontend components to reduce duplicated UI code across modules.
+
+</details>
 
 <br/>
 
