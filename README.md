@@ -21,8 +21,10 @@ Right now that means building things like a Zero Trust access model on AWS, an L
 
 <br/>
 
+## 💼 Experience
+
 <details>
-<summary><b>💼 Experience</b></summary>
+<summary>Click to expand</summary>
 <br/>
 
 **AI Intern** — Dhee Center for AI & Data Science, RV University · *Jun–Jul 2025*
