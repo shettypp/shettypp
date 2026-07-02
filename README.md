@@ -7,9 +7,8 @@
 <br/><br/>
 
 <!-- REPLACE: RESUME_VIEW_LINK and RESUME_DOWNLOAD_LINK with real URLs -->
-[![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#RESUME_VIEW_LINK)
-[![Download Resume](https://img.shields.io/badge/Download%20PDF-1a1a2e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#RESUME_DOWNLOAD_LINK)
-
+[![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1eds17o-eqzyrswWFh2nqZZ0egouyhPJS7WTJMQID2lg/view)
+[![Download Resume](https://img.shields.io/badge/Download%20PDF-1a1a2e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://docs.google.com/document/d/1eds17o-eqzyrswWFh2nqZZ0egouyhPJS7WTJMQID2lg/export?format=pdf)
 </div>
 
 <br/>
