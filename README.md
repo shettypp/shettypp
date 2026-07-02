@@ -53,75 +53,27 @@ Right now that means building things like a Zero Trust access model on AWS, an L
 
 ## 💼 Experience
 
-<details>
-<summary>Click to expand</summary>
-<br/>
+**AI Intern**, Dhee Center for AI & Data Science, RV University — *Jun–Jul 2025*
+Built an LSTM-based time-series forecasting model on 270 years of historical solar sunspot data; handled preprocessing, feature engineering, and model optimization in Python and Pandas.
 
-**AI Intern** — Dhee Center for AI & Data Science, RV University · *Jun–Jul 2025*
-- Built an LSTM-based time-series forecasting model trained on 270 years of historical solar sunspot data.
-- Handled preprocessing, feature engineering, and model optimization in Python and Pandas.
-
-**Frontend Developer Intern** — Janmamithra Trust, Bengaluru · *Dec 2024–Jan 2025*
-- Built responsive admin-portal and event-management interfaces in HTML, CSS, and JavaScript.
-- Developed reusable frontend components to reduce duplicated UI code across modules.
-
-</details>
-
-<br/>
+**Frontend Developer Intern**, Janmamithra Trust, Bengaluru — *Dec 2024–Jan 2025*
+Built responsive admin-portal and event-management interfaces in HTML, CSS, and JavaScript; developed reusable frontend components to reduce duplicated UI code.
 
 ## 🚀 Featured Projects
 
-<!-- REPLACE: [GitHub] / [Live Demo] with real links -->
+<!-- REPLACE: # with your actual repo links -->
 
-<details open>
-<summary>🔐&nbsp;&nbsp;<b>Zero-Trust Architecture for Secure Cloud Resource Access</b></summary>
-<br/>
+**[Zero-Trust Architecture for Secure Cloud Resource Access →](#)**
+`AWS IAM` `STS` `CloudTrail` `EventBridge`
 
-Zero Trust access model on AWS using temporary, role-based credentials via STS and IMDSv2 instead of hardcoded keys. Event-driven monitoring through CloudTrail and EventBridge triggers real-time alerts on role changes and S3 access.
+**[MediZap — AI Healthcare Platform →](#)**
+`React` `FastAPI` `Firebase` `Gemini/LLaMA`
 
-`AWS IAM` `STS` `IMDSv2` `CloudTrail` `EventBridge` `SNS`
+**[LegalTech — AI Contract Verification →](#)**
+`Python` `RAG` `Ethereum` `gRPC`
 
-**[GitHub]**
-
-</details>
-
-<details>
-<summary>🏥&nbsp;&nbsp;<b>MediZap — AI Healthcare Platform</b></summary>
-<br/>
-
-Telemedicine platform that digitizes handwritten prescriptions via OCR and NLP, validates extracted drug data against OpenFDA/RxNorm through an LLM safety pipeline, and matches pharmacy inventory in real time on a GCP serverless architecture.
-
-`React` `FastAPI` `Firebase` `Gemini/LLaMA` `OCR`
-
-**[GitHub]**
-
-</details>
-
-<details>
-<summary>⚖️&nbsp;&nbsp;<b>LegalTech — AI Contract Verification</b></summary>
-<br/>
-
-Contract-risk analyzer using transformer embeddings and a two-pass RAG/LLM pipeline to flag missing or risky clauses, with SHA-256 hashing on Ethereum for tamper-proof, on-chain verification.
-
-`Python` `Transformers/RAG` `Ethereum` `Supabase` `gRPC`
-
-**[GitHub] · [Live Demo]**
-
-</details>
-
-<details>
-<summary>🙂&nbsp;&nbsp;<b>Emojify — Real-Time Facial Emotion Detection</b></summary>
-<br/>
-
-Real-time emotion classifier trained on 35K+ labeled images from FER2013. Benchmarked CNN, SE-augmented CNN, and CNN+ViT architectures with augmentation and regularization to reduce overfitting; served through a Tkinter GUI on live webcam input.
-
-`Python` `OpenCV` `TensorFlow/Keras` `CNN`
-
-**[GitHub]**
-
-</details>
-
-<br/>
+**[Emojify — Real-Time Facial Emotion Detection →](#)**
+`OpenCV` `TensorFlow` `CNN`
 
 ## 🏆 Achievements & Recognition
 
