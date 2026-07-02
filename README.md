@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=210&section=header&text=PRAJNA%20SHETTY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%C3%97%20AI%20%C3%97%20Security%20Engineer&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=210&section=header&text=PRAJNA%20SHETTY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%C3%97%20AI%20%C3%97%20Security%20&descAlignY=54&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+at+the+intersection+of+Cloud%2C+AI+%26+Security;B.Tech+(Hons.)+CSE+%40+RV+University;Cloud+Computing+Major+%7C+FinTech+Minor" alt="Typing SVG"/>
 
