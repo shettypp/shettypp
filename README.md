@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- REPLACE: Banner image. See suggested dimensions & design idea at the bottom of this file -->
-<img src="https://via.placeholder.com/1200x300?text=Banner+Placeholder" alt="Profile Banner" width="100%"/>
+<img src="prajna passport size photo.jpg" alt="Profile Banner" width="25%"/>
 
 <br/>
 
