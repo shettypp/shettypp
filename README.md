@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- REPLACE: Banner image. See suggested dimensions & design idea at the bottom of this file -->
-<img src="me4.jpeg" alt="Profile Banner" width="100%"/>
+<img src="me4.jpeg" alt="Profile Banner" width="20%"/>
 
 
 <br/>
