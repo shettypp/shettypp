@@ -1,25 +1,25 @@
 
-
 <div align="center">
 
 <!-- REPLACE: Banner image. See suggested dimensions & design idea at the bottom of this file -->
-<img src="prajna passport size photo.jpg" alt="Profile Banner" width="25%"/>
+<img src="me2.jpeg" alt="Profile Banner" width="20%"/>
+
 
 <br/>
 
 # Hi, I'm Prajna Shetty 🎯
 
-### Full Stack & Cloud Engineer in the Making | B.Tech (Hons.) CSE, RV University
+### Cloud & Full Stack Engineer in the Making | B.Tech (Hons.) CSE, RV University
 
-Fourth-year Computer Science Engineering student specializing in **Full Stack Development** and **Cloud Computing**.
-Focused on building scalable, production-grade software at the intersection of **AI, Cloud, and System Design** — with a strong eye toward security and real-world usability.
+Fourth-year Computer Science Engineering student specializing in **Cloud Computing** and **Full Stack Development**.
+Focused on building scalable, production-grade software at the intersection of **Cloud, AI, and Full Stack Engineering** — with growing interest in cybersecurity and system design fundamentals.
 
 <br/>
 
-<!-- REPLACE: Update social/contact links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajna-shetty-9525ps)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shettypp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajnashetty440@gmail.com)
+<!-- REPLACE: Add Resume link once available -->
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
 
 </div>
@@ -30,11 +30,11 @@ Focused on building scalable, production-grade software at the intersection of *
 
 ## 🧭 About Me
 
-I'm a fourth-year **B.Tech (Hons.) Computer Science Engineering** student at **RV University, Bangalore**, specializing in **Full Stack Development** and **Cloud Computing**.
+I'm a fourth-year **B.Tech (Hons.) Computer Science Engineering** student at **RV University, Bangalore**, majoring in **Cloud Computing** with a minor in **FinTech**, currently maintaining a CGPA of **8.77/10**.
 
-I build practical, end-to-end software — from responsive frontends to cloud-deployed backends — with an emphasis on scalability, clean architecture, and measurable business value. My interests span **AI/ML integration, distributed systems, cybersecurity, and system design**, and I enjoy working across the stack to ship products that solve real problems rather than toy demos.
+I specialize in **Cloud Computing** and **Full Stack Development**, and enjoy building end-to-end products — from cloud-native backends to AI-integrated applications — that solve practical problems. My work spans **cloud architecture, AI/ML integration and full stack engineering**.
 
-My long-term goal is to grow into a **Software Engineer** who designs resilient, scalable systems and builds products with genuine impact.
+My goal is to grow into a **Software Engineer** who designs scalable cloud systems and builds products with real business value.
 
 <br/>
 
@@ -47,7 +47,7 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 | Area | Details |
 |---|---|
 | 🏗️ **Building** | Full-stack applications with cloud-native architecture |
-| ☁️ **Deepening** | Cloud infrastructure & DevOps practices (AWS / Azure) |
+| ☁️ **Deepening** | Cloud infrastructure &  AI/ML |
 | 🔐 **Exploring** | Application security & secure system design |
 | 🧠 **Applying** | AI/ML integrations into production-style projects |
 | 📈 **Preparing** | For Software Engineering roles — DSA, system design, and CS fundamentals |
@@ -64,18 +64,32 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 **Programming Languages**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**AI/ML & Data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -83,46 +97,27 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**AI/ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
 **Cybersecurity**
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![MFA/TOTP](https://img.shields.io/badge/MFA%2FTOTP-4B0082?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-000000?style=for-the-badge)
 
 **Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -132,15 +127,14 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 ## 🚀 Featured Projects
 
-<!-- REPLACE: Update project details, GitHub links, and live demo links -->
+<!-- REPLACE: [GitHub] and [Live Demo] with your actual repository/deployment links -->
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **[Project Name 1]** | Full-stack platform solving [specific problem] with real-time data handling and secure authentication. | `React` `Node.js` `MongoDB` `AWS` | [GitHub] · [Live Demo] |
-| **[Project Name 2]** | Cloud-deployed application enabling [specific outcome] via a scalable microservices architecture. | `Next.js` `Spring Boot` `Docker` `PostgreSQL` | [GitHub] · [Live Demo] |
-| **[Project Name 3]** | AI-powered tool that [specific functionality], integrating a custom ML pipeline with a production API. | `Python` `FastAPI` `TensorFlow` `Redis` | [GitHub] · [Live Demo] |
-| **[Project Name 4]** | Security-focused application implementing [specific security feature] with automated vulnerability scanning. | `Node.js` `Express` `OWASP ZAP` `JWT` | [GitHub] · [Live Demo] |
-| **[Project Name 5]** | System design case study demonstrating [specific architecture pattern] at scale. | `Java` `Kafka` `Kubernetes` `AWS` | [GitHub] · [Live Demo] |
+| **Zero-Trust Architecture for Secure Cloud Resource Access** | Zero Trust cloud access system on AWS using IAM roles, STS, and IMDSv2 for temporary credential-based access, with CloudTrail + EventBridge + SNS for real-time security alerting. | `AWS IAM` `STS` `IMDSv2` `CloudTrail` `EventBridge` `SNS` `S3` | [GitHub] |
+| **MediZap — AI Healthcare Platform** | Telemedicine platform digitizing handwritten prescriptions via OCR + NLP, validating against drug databases through an LLM safety pipeline, with a symptom chatbot and pharmacy inventory matching on a GCP serverless architecture. | `React` `FastAPI` `Firebase` `Gemini/LLaMA` `OCR` | [GitHub] |
+| **LegalTech — AI Contract Verification** | AI legal-document analyzer using transformer embeddings, RAG, and a two-pass LLM pipeline to flag contract risks, with Ethereum-based hashing for tamper-proof on-chain verification. | `Python` `Transformers/RAG` `Ethereum` `Supabase` `gRPC` | [GitHub] · [Live Demo] |
+| **Emojify — Real-Time Facial Emotion Detection** | Real-time facial emotion recognition system using OpenCV and a CNN trained on FER2013, benchmarking CNN, SE-augmented CNN, and CNN+ViT architectures with live predictions via a Tkinter GUI. | `Python` `OpenCV` `TensorFlow/Keras` `CNN` `Tkinter` | [GitHub] |
 
 <div align="center">
 
@@ -156,21 +150,17 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 <div align="center">
 
-<!-- REPLACE: your-username with your actual GitHub username in all stat card URLs below -->
-
 <!-- GitHub Stats Card -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=shettypp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
 
 <!-- Top Languages Card -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettypp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
 
 <!-- GitHub Streak Stats -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shettypp&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%"/>
 
 <!-- Contribution Graph -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/> -->
-
-**⬆️ Uncomment the sections above and replace `your-username` to activate live stats**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shettypp&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -180,12 +170,8 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 ## 📜 Certifications
 
-<!-- REPLACE: Add/remove certifications as applicable -->
-
-- **[Certification Name]** — [Issuing Platform/Organization], [Year]
-- **[Certification Name]** — [Issuing Platform/Organization], [Year]
-- **[Certification Name]** — [Issuing Platform/Organization], [Year]
-- **[Certification Name]** — [Issuing Platform/Organization], [Year]
+- **Affective Computing** — NPTEL, Elite + Top 5% (94%)
+- **Design & Implementation of Human Computer Interfaces** — NPTEL, Elite + Top 5% (85%)
 
 <br/>
 
@@ -193,12 +179,11 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 ## 🏆 Achievements
 
-<!-- REPLACE: Add specific, quantifiable achievements -->
-
-- 🥇 [Achievement — e.g., hackathon placement, competitive coding rank, paper publication]
-- 📈 [Achievement — e.g., open-source contribution merged, GitHub streak milestone]
-- 🎓 [Achievement — e.g., academic distinction, scholarship, dean's list]
-- 💼 [Achievement — e.g., internship, freelance project delivered]
+- 🥇 State Rank 6 — PUC Board Examination
+- 🥈 State Rank 8 — SSLC Board Examination
+- 🎓 Recipient — Parivartan ECSS Merit-cum-Need Scholarship (2025–26)
+- 🎓 Recipient — Rolls-Royce Unnati Scholarship for Women Engineering Students (2023–24)
+- 🧭 Finance Head — Art of Travel Club
 
 <br/>
 
@@ -208,10 +193,8 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 <div align="center">
 
-![System Design](https://img.shields.io/badge/System%20Design-4B0082?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Advanced DSA](https://img.shields.io/badge/Advanced%20DSA-FF6F00?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design%20Fundamentals-4B0082?style=for-the-badge)
+![Cloud Native Architecture](https://img.shields.io/badge/Cloud--Native%20Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -223,13 +206,9 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 <div align="center">
 
-<!-- REPLACE: Update all links below -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajna-shetty-9525ps)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shettypp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajnashetty440@gmail.com)
 
 </div>
 
@@ -239,7 +218,7 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
 
 <div align="center">
 
-*Open to Software Engineering Internships & Full-Time Opportunities · 2026 Graduate*
+*Open to Software Engineering Internships & Full-Time Opportunities · 2027 Graduate*
 
 </div>
 
@@ -248,12 +227,12 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
      ===================================================================
 
      BEST REPOSITORIES TO PIN (choose up to 6):
-     1. Your strongest full-stack project with a live demo — proves end-to-end ability.
-     2. A cloud/DevOps-focused project (Docker/Kubernetes/CI-CD) — proves cloud fluency.
-     3. An AI/ML integration project — proves you can apply ML in real applications.
-     4. A cybersecurity-focused project (auth system, vulnerability scanner, etc.).
-     5. A well-documented DSA/system-design repository — proves CS fundamentals.
-     6. An open-source contribution or collaborative project — proves teamwork.
+     1. Zero-Trust Architecture for Secure Cloud Resource Access — proves cloud & security depth.
+     2. MediZap — proves full-stack + AI integration at platform scale.
+     3. LegalTech — proves AI/RAG + blockchain-backed system design.
+     4. Emojify — proves ML model benchmarking and applied CV skills.
+     5. AI Resume Builder — proves full-stack product delivery (Node.js/Express/MongoDB).
+     6. AI Syllabus Planner & Study Assistant — proves independent full-stack product thinking.
 
      BANNER DIMENSIONS:
      - Recommended size: 1200 x 300 px (or 1280 x 320 px for retina clarity)
@@ -261,21 +240,20 @@ My long-term goal is to grow into a **Software Engineer** who designs resilient,
      - Use PNG for crisp text, or SVG for a scalable, lightweight banner
 
      BANNER DESIGN IDEA:
-     - Dark background (#0d1117, matching GitHub's dark theme) with a subtle grid or
-       circuit-pattern texture.
-     - Left-aligned bold text: "Full Stack & Cloud Engineer" in a monospace font.
-     - Right side: minimal line-art icons of cloud, code brackets, and a lock (security).
-     - Optional: a thin gradient accent line (blue → violet) at the bottom edge.
+     - Dark background (#0d1117, matching GitHub's dark theme) with a subtle cloud/network
+       node pattern texture (reflecting your Cloud Computing specialization).
+     - Left-aligned bold text: "Cloud & Full Stack Engineer" in a monospace font.
+     - Right side: minimal line-art icons of a cloud, code brackets, and a small AI/spark icon.
+     - Optional: a thin gradient accent line (blue → teal) at the bottom edge.
      - Tools to create it: Canva, Figma, or readme-typing-svg for animated variants.
 
      GITHUB PROFILE OPTIMIZATION TIPS:
      - Pin exactly 6 repositories — the ones listed above, in that priority order.
      - Ensure every pinned repo has its own README with setup instructions and a screenshot/GIF.
-     - Add topics/tags to each repository (e.g., "react", "aws", "fastapi") for discoverability.
+     - Add topics/tags to each repository (e.g., "aws", "cloud-security", "react", "fastapi").
      - Keep commit history consistent — regular, meaningful commits matter more than volume.
-     - Use GitHub Actions badges (build passing/failing) on key repos to show CI/CD literacy.
-     - Turn on GitHub Discussions or add a CONTRIBUTING.md on any open-source repo you maintain.
-     - Keep this README updated each semester — stale "Currently Learning" sections stand out negatively.
      - Add a LICENSE file to public repos — signals professionalism to recruiters.
+     - Once your portfolio site is live, replace the Resume/Portfolio placeholders above.
+     - Keep this README updated each semester — stale "Currently Learning" sections stand out negatively.
 
      =================================================================== -->
