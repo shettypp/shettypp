@@ -63,13 +63,13 @@ Built responsive admin-portal and event-management interfaces in HTML, CSS, and 
 
 <!-- REPLACE: # with your actual repo links -->
 
-**[Zero-Trust Architecture for Secure Cloud Resource Access ](https://github.com/shettypp/Emojify.git)**
+**[Zero-Trust Architecture for Secure Cloud Resource Access ](https://github.com/shettypp/Zero-Trust-Cloud-Security.git)**
 
 **[MediZap — AI Healthcare Platform ](https://github.com/shettypp/medizap.git)**
 
 **[LegalTech — AI Contract Verification ](https://github.com/shettypp/digital-contract-platform.git)**
 
-**[Emojify — Real-Time Facial Emotion Detection ](#)**
+**[Emojify — Real-Time Facial Emotion Detection ](https://github.com/shettypp/Emojify.git)**
 
 ## 🏆 Achievements & Recognition
 
