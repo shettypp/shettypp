@@ -23,30 +23,33 @@ Right now that means building things like a Zero Trust access model on AWS, an L
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql" />
-
-**Cloud & Infrastructure**
-<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker" />
-
-**AI / ML**
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-**Full-Stack**
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb" />
-
-**Security**
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-4B0082?style=flat-square)
-![MFA/TOTP](https://img.shields.io/badge/MFA%2FTOTP-4B0082?style=flat-square)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
-
-</div>
-
-<br/>
+<table>
+<tr>
+<td align="right" width="160"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql" /></td>
+</tr>
+<tr>
+<td align="right"><b>Cloud & Infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker" /></td>
+</tr>
+<tr>
+<td align="right"><b>AI / ML</b></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Gemini%20API-1a1a2e?style=flat-square&logo=googlegemini&logoColor=8E75B2" height="48"/></td>
+</tr>
+<tr>
+<td align="right"><b>Full-Stack</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb" /></td>
+</tr>
+<tr>
+<td align="right"><b>Security</b></td>
+<td>
+<img src="https://img.shields.io/badge/AWS%20IAM-1a1a2e?style=flat-square&logo=amazonaws&logoColor=FF9900" height="28"/>
+<img src="https://img.shields.io/badge/Zero%20Trust-1a1a2e?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MFA%2FTOTP-1a1a2e?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/OpenVPN-1a1a2e?style=flat-square&logo=openvpn&logoColor=EA7E20" height="28"/>
+</td>
+</tr>
+</table>
 
 ## 💼 Experience
 
