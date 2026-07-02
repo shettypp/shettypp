@@ -1,237 +1,174 @@
-
 <div align="center">
 
-<!-- REPLACE: Banner image. See suggested dimensions & design idea at the bottom of this file -->
-<img src="me4.jpeg" alt="Profile Banner" width="20%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=210&section=header&text=PRAJNA%20SHETTY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cloud%20%C3%97%20AI%20%C3%97%20Security%20Engineer&descAlignY=54&descSize=17" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+at+the+intersection+of+Cloud%2C+AI+%26+Security;B.Tech+(Hons.)+CSE+%40+RV+University;Cloud+Computing+Major+%7C+FinTech+Minor" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
-# Hi, I'm Prajna Shetty 🎯
-
-### Cloud & Full Stack Engineer in the Making | B.Tech (Hons.) CSE, RV University
-
-Fourth-year Computer Science Engineering student specializing in **Cloud Computing** and **Full Stack Development**.
-Focused on building scalable, production-grade software at the intersection of **Cloud, AI, and Full Stack Engineering** — with growing interest in cybersecurity and system design fundamentals.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajna-shetty-9525ps)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shettypp)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajnashetty440@gmail.com)
-<!-- REPLACE: Add Resume link once available -->
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+<!-- REPLACE: RESUME_VIEW_LINK and RESUME_DOWNLOAD_LINK with real URLs -->
+[![View Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](#RESUME_VIEW_LINK)
+[![Download Resume](https://img.shields.io/badge/Download%20PDF-1a1a2e?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](#RESUME_DOWNLOAD_LINK)
 
 </div>
 
 <br/>
 
----
+## 🧭 What I'm Building Toward
 
-## 🧭 About Me
+Software engineering roles at the intersection of **Cloud Infrastructure, AI Systems, and Security**. I want to design systems that are scalable by architecture and secure by default, where AI is core to how the system reasons, not a chatbot bolted onto the UI afterward.
 
-I'm a fourth-year **B.Tech (Hons.) Computer Science Engineering** student at **RV University, Bangalore**, majoring in **Cloud Computing** with a minor in **FinTech**, currently maintaining a CGPA of **8.77/10**.
-
-I specialize in **Cloud Computing** and **Full Stack Development**, and enjoy building end-to-end products — from cloud-native backends to AI-integrated applications — that solve practical problems. My work spans **cloud architecture, AI/ML integration and full stack engineering**.
-
-My goal is to grow into a **Software Engineer** who designs scalable cloud systems and builds products with real business value.
+Right now that means building things like a Zero Trust access model on AWS, an LLM-integrated healthcare pipeline, and a blockchain-verified legal-document system — at RV University — because that's the engineer I'm becoming, not just the assignments I'm handing in.
 
 <br/>
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| Area | Details |
-|---|---|
-| 🏗️ **Building** | Full-stack applications with cloud-native architecture |
-| ☁️ **Deepening** | Cloud infrastructure &  AI/ML |
-| 🔐 **Exploring** | Application security & secure system design |
-| 🧠 **Applying** | AI/ML integrations into production-style projects |
-| 📈 **Preparing** | For Software Engineering roles — DSA, system design, and CS fundamentals |
-
-</div>
-
+<details>
+<summary><b>💼 Experience</b></summary>
 <br/>
 
----
+**AI Intern** — Dhee Center for AI & Data Science, RV University · *Jun–Jul 2025*
+- Built an LSTM-based time-series forecasting model trained on 270 years of historical solar sunspot data.
+- Handled preprocessing, feature engineering, and model optimization in Python and Pandas.
+
+**Frontend Developer Intern** — Janmamithra Trust, Bengaluru · *Dec 2024–Jan 2025*
+- Built responsive admin-portal and event-management interfaces in HTML, CSS, and JavaScript.
+- Developed reusable frontend components to reduce duplicated UI code across modules.
+
+</details>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Programming Languages**
+**Languages**
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,mysql" />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Cloud & Infrastructure**
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker" />
 
-**Cloud & DevOps**
+**AI / ML**
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Full-Stack**
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,mongodb" />
 
-**AI/ML & Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-
-**Cybersecurity**
-
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
-![MFA/TOTP](https://img.shields.io/badge/MFA%2FTOTP-4B0082?style=for-the-badge)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-000000?style=for-the-badge)
-
-**Developer Tools**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Security**
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-4B0082?style=flat-square)
+![MFA/TOTP](https://img.shields.io/badge/MFA%2FTOTP-4B0082?style=flat-square)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 
 </div>
 
 <br/>
-
----
 
 ## 🚀 Featured Projects
 
-<!-- REPLACE: [GitHub] and [Live Demo] with your actual repository/deployment links -->
+<!-- REPLACE: [GitHub] / [Live Demo] with real links -->
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **Zero-Trust Architecture for Secure Cloud Resource Access** | Zero Trust cloud access system on AWS using IAM roles, STS, and IMDSv2 for temporary credential-based access, with CloudTrail + EventBridge + SNS for real-time security alerting. | `AWS IAM` `STS` `IMDSv2` `CloudTrail` `EventBridge` `SNS` `S3` | [GitHub] |
-| **MediZap — AI Healthcare Platform** | Telemedicine platform digitizing handwritten prescriptions via OCR + NLP, validating against drug databases through an LLM safety pipeline, with a symptom chatbot and pharmacy inventory matching on a GCP serverless architecture. | `React` `FastAPI` `Firebase` `Gemini/LLaMA` `OCR` | [GitHub] |
-| **LegalTech — AI Contract Verification** | AI legal-document analyzer using transformer embeddings, RAG, and a two-pass LLM pipeline to flag contract risks, with Ethereum-based hashing for tamper-proof on-chain verification. | `Python` `Transformers/RAG` `Ethereum` `Supabase` `gRPC` | [GitHub] · [Live Demo] |
-| **Emojify — Real-Time Facial Emotion Detection** | Real-time facial emotion recognition system using OpenCV and a CNN trained on FER2013, benchmarking CNN, SE-augmented CNN, and CNN+ViT architectures with live predictions via a Tkinter GUI. | `Python` `OpenCV` `TensorFlow/Keras` `CNN` `Tkinter` | [GitHub] |
+<details open>
+<summary>🔐&nbsp;&nbsp;<b>Zero-Trust Architecture for Secure Cloud Resource Access</b></summary>
+<br/>
 
-<div align="center">
+Zero Trust access model on AWS using temporary, role-based credentials via STS and IMDSv2 instead of hardcoded keys. Event-driven monitoring through CloudTrail and EventBridge triggers real-time alerts on role changes and S3 access.
 
-*More projects pinned on my profile below ⬇️*
+`AWS IAM` `STS` `IMDSv2` `CloudTrail` `EventBridge` `SNS`
 
-</div>
+**[GitHub]**
+
+</details>
+
+<details>
+<summary>🏥&nbsp;&nbsp;<b>MediZap — AI Healthcare Platform</b></summary>
+<br/>
+
+Telemedicine platform that digitizes handwritten prescriptions via OCR and NLP, validates extracted drug data against OpenFDA/RxNorm through an LLM safety pipeline, and matches pharmacy inventory in real time on a GCP serverless architecture.
+
+`React` `FastAPI` `Firebase` `Gemini/LLaMA` `OCR`
+
+**[GitHub]**
+
+</details>
+
+<details>
+<summary>⚖️&nbsp;&nbsp;<b>LegalTech — AI Contract Verification</b></summary>
+<br/>
+
+Contract-risk analyzer using transformer embeddings and a two-pass RAG/LLM pipeline to flag missing or risky clauses, with SHA-256 hashing on Ethereum for tamper-proof, on-chain verification.
+
+`Python` `Transformers/RAG` `Ethereum` `Supabase` `gRPC`
+
+**[GitHub] · [Live Demo]**
+
+</details>
+
+<details>
+<summary>🙂&nbsp;&nbsp;<b>Emojify — Real-Time Facial Emotion Detection</b></summary>
+<br/>
+
+Real-time emotion classifier trained on 35K+ labeled images from FER2013. Benchmarked CNN, SE-augmented CNN, and CNN+ViT architectures with augmentation and regularization to reduce overfitting; served through a Tkinter GUI on live webcam input.
+
+`Python` `OpenCV` `TensorFlow/Keras` `CNN`
+
+**[GitHub]**
+
+</details>
 
 <br/>
 
----
+## 🏆 Achievements & Recognition
 
-## 📜 Certifications
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- **Affective Computing** — NPTEL, Elite + Top 5% (94%)
-- **Design & Implementation of Human Computer Interfaces** — NPTEL, Elite + Top 5% (85%)
-
-<br/>
-
----
-
-## 🏆 Achievements
-
+**Academic**
 - 🥇 State Rank 6 — PUC Board Examination
 - 🥈 State Rank 8 — SSLC Board Examination
-- 🎓 Recipient — Parivartan ECSS Merit-cum-Need Scholarship (2025–26)
-- 🎓 Recipient — Rolls-Royce Unnati Scholarship for Women Engineering Students (2023–24)
-- 🧭 Finance Head — Art of Travel Club
+
+**Scholarships**
+- 🎓 Rolls-Royce Unnati Scholarship for Women Engineering Students (2023–24)
+- 🎓 Parivartan ECSS Merit-cum-Need Scholarship (2025–26)
+
+</td>
+<td valign="top" width="50%">
+
+**Certifications**
+- NPTEL — Affective Computing — Elite + Top 5% (94%)
+- NPTEL — Design & Implementation of HCI — Elite + Top 5% (85%)
+
+**Leadership**
+- 🧭 Finance Head — Art of Travel Club, RV University
+
+</td>
+</tr>
+</table>
 
 <br/>
 
----
-
-## 📚 Currently Learning
+## 📈 GitHub Activity
 
 <div align="center">
-
-![System Design](https://img.shields.io/badge/System%20Design%20Fundamentals-4B0082?style=for-the-badge)
-![Cloud Native Architecture](https://img.shields.io/badge/Cloud--Native%20Architecture-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
+<img src="https://ghchart.rshah.org/58A6FF/shettypp" alt="Prajna's GitHub contribution chart" width="100%"/>
 </div>
 
 <br/>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
+
+### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajna-shetty-9525ps)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shettypp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajnashetty440@gmail.com)
 
-</div>
+*Interested in Software Engineering, Cloud Engineering, and AI related roles.*
 
-<br/>
-
----
-
-<div align="center">
-
-*Open to Software Engineering Internships & Full-Time Opportunities · 2027 Graduate*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
-
-<!-- ===================================================================
-     RECOMMENDATIONS (for your reference — remove or keep as a comment)
-     ===================================================================
-
-     BEST REPOSITORIES TO PIN (choose up to 6):
-     1. Zero-Trust Architecture for Secure Cloud Resource Access — proves cloud & security depth.
-     2. MediZap — proves full-stack + AI integration at platform scale.
-     3. LegalTech — proves AI/RAG + blockchain-backed system design.
-     4. Emojify — proves ML model benchmarking and applied CV skills.
-     5. AI Resume Builder — proves full-stack product delivery (Node.js/Express/MongoDB).
-     6. AI Syllabus Planner & Study Assistant — proves independent full-stack product thinking.
-
-     BANNER DIMENSIONS:
-     - Recommended size: 1200 x 300 px (or 1280 x 320 px for retina clarity)
-     - Keep it under 1MB for fast loading
-     - Use PNG for crisp text, or SVG for a scalable, lightweight banner
-
-     BANNER DESIGN IDEA:
-     - Dark background (#0d1117, matching GitHub's dark theme) with a subtle cloud/network
-       node pattern texture (reflecting your Cloud Computing specialization).
-     - Left-aligned bold text: "Cloud & Full Stack Engineer" in a monospace font.
-     - Right side: minimal line-art icons of a cloud, code brackets, and a small AI/spark icon.
-     - Optional: a thin gradient accent line (blue → teal) at the bottom edge.
-     - Tools to create it: Canva, Figma, or readme-typing-svg for animated variants.
-
-     GITHUB PROFILE OPTIMIZATION TIPS:
-     - Pin exactly 6 repositories — the ones listed above, in that priority order.
-     - Ensure every pinned repo has its own README with setup instructions and a screenshot/GIF.
-     - Add topics/tags to each repository (e.g., "aws", "cloud-security", "react", "fastapi").
-     - Keep commit history consistent — regular, meaningful commits matter more than volume.
-     - Add a LICENSE file to public repos — signals professionalism to recruiters.
-     - Once your portfolio site is live, replace the Resume/Portfolio placeholders above.
-     - Keep this README updated each semester — stale "Currently Learning" sections stand out negatively.
-
-     =================================================================== -->
